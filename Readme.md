@@ -70,7 +70,7 @@ The analysis identifies **5 distinct customer segments** using K-Means on Age, A
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/Customer-Segmentation-using-ML.git
+   git clone https://github.com/sujitha-kotyada/Customer-Segmentation-using-ML.git
    cd Customer-Segmentation-using-ML
    ```
 
@@ -119,12 +119,6 @@ Customer-Segmentation-using-ML/
 4. **K-Means Clustering** — Apply K-Means with optimal k values
 5. **Visualization** — 2D and 3D scatter plots of customer segments
 6. **Interpretation** — Profile each cluster for business insights
-
----
-
-## 📝 Related Article
-
-Read the detailed analysis article on Medium: [**Customer Segmentation Using K-Means Clustering**](https://theanshul.medium.com/customer-segmentation-using-k-means-clustering-ffded3a2695)
 
 ---
 
